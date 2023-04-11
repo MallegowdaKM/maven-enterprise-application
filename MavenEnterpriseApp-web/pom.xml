@@ -92,14 +92,17 @@
 
 	</dependencies>
 	
+	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <url>http://13.234.115.108:8081/repository/mg-release/</url>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://13.234.115.108:8081/repository/maven-ear-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <url>http://13.234.115.108:8081/repository/mg-snapshot/</url>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://13.234.115.108:8081/repository/maven-ear-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
