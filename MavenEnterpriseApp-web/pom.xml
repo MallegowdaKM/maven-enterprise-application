@@ -105,8 +105,6 @@
 	    </snapshotRepository>
 	</distributionManagement>
 	
-<project>
-	
 	<build>
 		<finalName>MavenEnterpriseApplication</finalName>
 		<plugins>
