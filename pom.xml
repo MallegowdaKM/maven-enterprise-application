@@ -32,5 +32,3 @@
 	<url>http://13.234.115.108:8081/repository/mg-snapshot/</url>
      </snapshotRepository>
 </distributionManagement>
-  
-</project>
